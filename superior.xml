@@ -6,72 +6,72 @@
             <titulo>Sistemas informáticos</titulo>
         </modulo>
         <ventana-modulo>
-            <imagen></imagen>
-            <titulo></titulo>
-            <contenido></contenido>
+            <imagen>imagenes/sistemas.jpg</imagen>
+            <titulo>Sistemas informáticos</titulo>
+            <contenido>El objetivo del módulo de "Sistemas Informáticos" pretende formar al alumno en los distintos sistemas informáticos, principalmente en lo que respecta a los sistemas operativos, las aplicaciones de propósito general y las redes de área local. Horas Semanales : 5 horas Horas Totales: 160 horas.</contenido>
         </ventana-modulo>
         <modulo>
             <imagen>imagenes/programas-bases-de-datos.jpg</imagen>
             <titulo>Base de datos</titulo>
         </modulo>
         <ventana-modulo>
-            <imagen></imagen>
-            <titulo></titulo>
-            <contenido></contenido>
+            <imagen>imagenes/programas-bases-de-datos.jpg</imagen>
+            <titulo>Base de datos</titulo>
+            <contenido>Este módulo profesional contiene la formación necesaria para desempeñar funciones relacionadas con la gestión de la información almacenada en bases de datos y el desarrollo de aplicaciones que acceden a bases de datos. Horas Semanales : 6 horas Horas Totales: 190 horas</contenido>
         </ventana-modulo>
         <modulo>
             <imagen>imagenes/Que-es-la-programacion.jpg</imagen>
             <titulo>Programación</titulo>
         </modulo>
         <ventana-modulo>
-            <imagen></imagen>
-            <titulo></titulo>
-            <contenido></contenido>
+            <imagen>imagenes/Que-es-la-programacion.jpg</imagen>
+            <titulo>Programación</titulo>
+            <contenido>Este módulo profesional contiene parte de la formación necesaria para desempeñar la función de programación de aplicaciones de propósito general en lenguajes orientados a objetos.</contenido>
         </ventana-modulo>
         <modulo>
             <imagen>imagenes/code-markup.jpg</imagen>
             <titulo>Lenguajes de marcas</titulo>
         </modulo>
         <ventana-modulo>
-            <imagen></imagen>
-            <titulo></titulo>
-            <contenido></contenido>
+            <imagen>imagenes/code-markup.jpg</imagen>
+            <titulo>Lenguajes de marcas</titulo>
+            <contenido>Este módulo profesional contiene la formación necesaria para desempeñar la funciónde gestión y explotación de sistemas de información. Horas Semanales : 4 horas Horas Totales: 128 horas</contenido>
         </ventana-modulo>
         <modulo>
             <imagen>imagenes/entornos de desarrollo.png</imagen>
             <titulo>Entorno de Desarrollo</titulo>
         </modulo>
         <ventana-modulo>
-            <imagen></imagen>
-            <titulo></titulo>
-            <contenido></contenido>
+            <imagen>imagenes/entornos de desarrollo.png</imagen>
+            <titulo>Entorno de Desarrollo</titulo>
+            <contenido>Este módulo profesional contiene la formación necesaria para la utilización de las herramientas software disponibles, la elaboración de documentación interna y técnica de la aplicación, elaboración y ejecución de pruebas y la optimización de código. Horas Semanales : 3 horas Horas Totales: 96 horas</contenido>
         </ventana-modulo>
         <modulo>
             <imagen>imagenes/FOL.jpg</imagen>
             <titulo>Itinerario personal para la Empleabilidad I</titulo>
         </modulo>
         <ventana-modulo>
-            <imagen></imagen>
-            <titulo></titulo>
-            <contenido></contenido>
+            <imagen>imagenes/FOL2.jpg</imagen>
+            <titulo>Itinerario personal para la Empleabilidad I</titulo>
+            <contenido>Este módulo profesional contiene la formación necesaria para que el alumno pueda insertarse laboralmente y desarrollar su carrera profesional en el sector del Desarrollo de Aplicaciones multiplataforma. Horas Semanales : 3 horas Horas Totales: 96 horas</contenido>
         </ventana-modulo>
         <modulo>
             <imagen>imagenes/Digitalización aplicada a los sectores productivos.jpg</imagen>
             <titulo>Digitalización aplicada a los sectores productivos</titulo>
         </modulo>
         <ventana-modulo>
-            <imagen></imagen>
-            <titulo></titulo>
-            <contenido></contenido>
+            <imagen>imagenes/Digitalización aplicada a los sectores productivos.jpg</imagen>
+            <titulo>Digitalización aplicada a los sectores productivos</titulo>
+            <contenido>Este módulo profesional contiene la formación necesaria para que el alumno pueda insertarse laboralmente y desarrollar su carrera profesional en el sector del Desarrollo de Aplicaciones multiplataforma. Horas Semanales : 3 horas Horas Totales: 96 horas</contenido>
         </ventana-modulo>
         <modulo>
             <imagen>imagenes/ingles.jpg</imagen>
             <titulo>Inglés profesional</titulo>
         </modulo>
         <ventana-modulo>
-            <imagen></imagen>
-            <titulo></titulo>
-            <contenido></contenido>
+            <imagen>imagenes/ingles.jpg</imagen>
+            <titulo>Inglés profesional</titulo>
+            <contenido>Este módulo profesional contiene la formación necesaria para que el alumno pueda insertarse laboralmente y desarrollar su carrera profesional en el sector del Desarrollo de Aplicaciones multiplataforma. Horas Semanales : 3 horas Horas Totales: 96 horas</contenido>
         </ventana-modulo>
     </primer-año>
     <segundo-año>
