@@ -47,7 +47,7 @@ function activepopupmodulo(index) {
 }
 
 function desactivepopupmodulos() {
-    const ventanasProyectos = document.querySelectorAll('.ventana-proyecto');
+    const ventanasProyectos = document.querySelectorAll('.ventana-modulo');
     ventanasProyectos.forEach(modulo => {
         modulo.classList.remove("activepopup");
     });
@@ -105,7 +105,7 @@ function construirHTML(xml, contenedorID) {
                 codigoHTML +=   `<div class="contenedor-titulo-modulo"><h2>${tituloModulo}</h2></div>`;
                 codigoHTML += '</div>';
 
-                codigoHTML += `<div id="modulo${globalIndex}" class="ventana-proyecto">`;
+                codigoHTML += `<div id="modulo${globalIndex}" class="ventana-modulo">`;
                 codigoHTML +=   `<div id="icono-cierre" onclick="desactivepopupmodulos()"><ion-icon class="cierre" name="close"></ion-icon></div>`;
                 codigoHTML +=   `<img src="${imagenVentana}" alt="">`;
                 codigoHTML +=   `<div><h1>${tituloVentana}</h1></div>`;

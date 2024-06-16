@@ -188,8 +188,9 @@ nav{
     padding: 1%;
 }
 
-.ventana-proyecto{
-    top: 7%;
+.ventana-modulo{
+    /*7% sin menu fijo, 16% con menu fijo*/
+    top: 16%;
     right: 16%;
     width: 1300px;
     height: 800px;
@@ -206,20 +207,20 @@ nav{
     text-align: center;
 }
 
-.ventana-proyecto img{
+.ventana-modulo img{
     height: 60%;
     width: 100%;
     object-fit: cover;
 }
 
-.ventana-proyecto div{
+.ventana-modulo div{
     height: 130px;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
-.ventana-proyecto p{
+.ventana-modulo p{
     width: 70%;
     text-align: center;
     align-self: center;
