@@ -654,10 +654,11 @@ footer{
     }
 
     #check:checked~#menu {
-        height: 215px;
+        height: 260px;
     }
 
     #menu a{
+        margin-top: 5px;
         display: block;
         transform: translateY(-50px);
         transition: .3s ease;
