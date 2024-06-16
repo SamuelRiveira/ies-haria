@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<basica>
+    <primer-año>
+        <modulo>
+            <imagen></imagen>
+            <titulo>Ciencias Aplicadas I</titulo>
+        </modulo>
+        <ventana-modulo>
+            <imagen></imagen>
+            <titulo>Ciencias Aplicadas I</titulo>
+            <contenido>Aplicación del conocimiento científico básico a necesidades humanas y al desarrollo tecnológico.</contenido>
+        </ventana-modulo>
+        <modulo>
+            <imagen></imagen>
+            <titulo>Comunicación y sociedad I</titulo>
+        </modulo>
+        <ventana-modulo>
+            <imagen></imagen>
+            <titulo>Comunicación y sociedad I</titulo>
+            <contenido>Se desarrolla las habilidades y destrezas lingüísticas, además de alcanzar el nivel de precisión, claridad y fluidez requeridas, para comunicarse en su entorno.</contenido>
+        </ventana-modulo>
+        <modulo>
+            <imagen></imagen>
+            <titulo>Equipos Eléctricos y Electrónicos</titulo>
+        </modulo>
+        <ventana-modulo>
+            <imagen></imagen>
+            <titulo>Equipos Eléctricos y Electrónicos</titulo>
+            <contenido>Se basa en el montaje y mantenimiento de equipos eléctricos y electrónicos</contenido>
+        </ventana-modulo>
+        <modulo>
+            <imagen></imagen>
+            <titulo>Instalación y cuidado de redes de datos</titulo>
+        </modulo>
+        <ventana-modulo>
+            <imagen></imagen>
+            <titulo>Instalación y cuidado de redes de datos</titulo>
+            <contenido>Se administra, gestiona, instala y mantiene las redes.</contenido>
+        </ventana-modulo>
+        <modulo>
+            <imagen></imagen>
+            <titulo>Programación</titulo>
+        </modulo>
+        <ventana-modulo>
+            <imagen></imagen>
+            <titulo>Programación</titulo>
+            <contenido>Este módulo profesional contiene parte de la formación necesaria para desempeñar la función de programación de aplicaciones de propósito general en lenguajes orientados a objetos.</contenido>
+        </ventana-modulo>
+    </primer-año>
+    <segundo-año>
+        <modulo>
+            <imagen>imagenes/Que-es-la-programacion.jpg</imagen>
+            <titulo>Manejo de sistemas y componentes de PC</titulo>
+        </modulo>
+        <ventana-modulo>
+            <imagen></imagen>
+            <titulo>Manejo de sistemas y componentes de PC</titulo>
+            <contenido>Se basa en el montaje y mantenimiento de sistemas y componentes informáticos.</contenido>
+        </ventana-modulo>
+        <modulo>
+            <imagen></imagen>
+            <titulo>Operaciones auxiliares para la configuración y la explotación</titulo>
+        </modulo>
+        <ventana-modulo>
+            <imagen></imagen>
+            <titulo>Operaciones auxiliares para la configuración y la explotación</titulo>
+            <contenido>Se realizan operaciones de ensamblado, operaciones de conexionado y operaciones auxiliares en el montaje y mantenimiento de equipos eléctricos y electrónicos.</contenido>
+        </ventana-modulo>
+        <modulo>
+            <imagen></imagen>
+            <titulo>Trabajo</titulo>
+        </modulo>
+        <ventana-modulo>
+            <imagen></imagen>
+            <titulo>Trabajo</titulo>
+            <contenido>Módulo donde los alumnos finalizan sus estudios en las empresas.</contenido>
+        </ventana-modulo>
+        <modulo>
+            <imagen></imagen>
+            <titulo>Comunicación y sociedad II</titulo>
+        </modulo>
+        <ventana-modulo>
+            <imagen></imagen>
+            <titulo>Comunicación y sociedad II</titulo>
+            <contenido>Se desarrolla las habilidades y destrezas lingüísticas, además de alcanzar el nivel de precisión, claridad y fluidez requeridas, para comunicarse en su entorno.</contenido>
+        </ventana-modulo>
+        <modulo>
+            <imagen></imagen>
+            <titulo>Ciencias aplicadas II</titulo>
+        </modulo>
+        <ventana-modulo>
+            <imagen></imagen>
+            <titulo>Ciencias aplicadas II</titulo>
+            <contenido>Aplicación del conocimiento científico básico a necesidades humanas y al desarrollo tecnológico.</contenido>
+        </ventana-modulo>
+        <modulo>
+            <imagen></imagen>
+            <titulo>Programación</titulo>
+        </modulo>
+        <ventana-modulo>
+            <imagen></imagen>
+            <titulo>Programación</titulo>
+            <contenido>Este módulo profesional contiene parte de la formación necesaria para desempeñar la función de programación de aplicaciones de propósito general en lenguajes orientados a objetos.</contenido>
+        </ventana-modulo>
+    </segundo-año>
+</basica>
