@@ -28,6 +28,10 @@ body{
     display: none;
 }
 
+.iconos{
+    display: none;
+}
+
 /* NAVEGADOR */
 
 nav{
@@ -583,6 +587,10 @@ footer{
 @media (max-width: 914px){
 
     .menu{
+        display: inline-flex;
+    }
+
+    .iconos{
         display: inline-flex;
     }
 
