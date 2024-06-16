@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<superior>
+    <primer-año>
+        <modulo>
+            <imagen>imagenes/sistemas.jpg</imagen>
+            <titulo>Sistemas informáticos</titulo>
+        </modulo>
+        <ventana-modulo>
+            <imagen></imagen>
+            <titulo></titulo>
+            <contenido></contenido>
+        </ventana-modulo>
+        <modulo>
+            <imagen>imagenes/programas-bases-de-datos.jpg</imagen>
+            <titulo>Base de datos</titulo>
+        </modulo>
+        <ventana-modulo>
+            <imagen></imagen>
+            <titulo></titulo>
+            <contenido></contenido>
+        </ventana-modulo>
+        <modulo>
+            <imagen>imagenes/Que-es-la-programacion.jpg</imagen>
+            <titulo>Programación</titulo>
+        </modulo>
+        <ventana-modulo>
+            <imagen></imagen>
+            <titulo></titulo>
+            <contenido></contenido>
+        </ventana-modulo>
+        <modulo>
+            <imagen>imagenes/code-markup.jpg</imagen>
+            <titulo>Lenguajes de marcas</titulo>
+        </modulo>
+        <ventana-modulo>
+            <imagen></imagen>
+            <titulo></titulo>
+            <contenido></contenido>
+        </ventana-modulo>
+        <modulo>
+            <imagen>imagenes/entornos de desarrollo.png</imagen>
+            <titulo>Entorno de Desarrollo</titulo>
+        </modulo>
+        <ventana-modulo>
+            <imagen></imagen>
+            <titulo></titulo>
+            <contenido></contenido>
+        </ventana-modulo>
+        <modulo>
+            <imagen>imagenes/FOL.jpg</imagen>
+            <titulo>Itinerario personal para la Empleabilidad I</titulo>
+        </modulo>
+        <ventana-modulo>
+            <imagen></imagen>
+            <titulo></titulo>
+            <contenido></contenido>
+        </ventana-modulo>
+        <modulo>
+            <imagen>imagenes/Digitalización aplicada a los sectores productivos.jpg</imagen>
+            <titulo>Digitalización aplicada a los sectores productivos</titulo>
+        </modulo>
+        <ventana-modulo>
+            <imagen></imagen>
+            <titulo></titulo>
+            <contenido></contenido>
+        </ventana-modulo>
+        <modulo>
+            <imagen>imagenes/ingles.jpg</imagen>
+            <titulo>Inglés profesional</titulo>
+        </modulo>
+        <ventana-modulo>
+            <imagen></imagen>
+            <titulo></titulo>
+            <contenido></contenido>
+        </ventana-modulo>
+    </primer-año>
+    <segundo-año>
+        <modulo>
+            <imagen>imagenes/Acceso de datos.jpg</imagen>
+            <titulo>Acceso de datos</titulo>
+        </modulo>
+        <ventana-modulo>
+            <imagen></imagen>
+            <titulo></titulo>
+            <contenido></contenido>
+        </ventana-modulo>
+        <modulo>
+            <imagen>imagenes/banner-superposicion-grafica-red-portatil-scaled.jpg.webp</imagen>
+            <titulo>Desarrollo de interfaces</titulo>
+        </modulo>
+        <ventana-modulo>
+            <imagen></imagen>
+            <titulo></titulo>
+            <contenido></contenido>
+        </ventana-modulo>
+        <modulo>
+            <imagen>imagenes/PROGRAMACIÓN MULTIMEDIA Y DISPOSITIVOS MÓVILES.jpg</imagen>
+            <titulo>Programación multimedia y dispositivos móviles</titulo>
+        </modulo>
+        <ventana-modulo>
+            <imagen></imagen>
+            <titulo></titulo>
+            <contenido></contenido>
+        </ventana-modulo>
+        <modulo>
+            <imagen>imagenes/programacion-guia.jpg</imagen>
+            <titulo>Programación de servicios y procesos</titulo>
+        </modulo>
+        <ventana-modulo>
+            <imagen></imagen>
+            <titulo></titulo>
+            <contenido></contenido>
+        </ventana-modulo>
+        <modulo>
+            <imagen>imagenes/154092-OUD9IM-908-e1519685852364.jpg</imagen>
+            <titulo>Sistemas de gestión empresarial</titulo>
+        </modulo>
+        <ventana-modulo>
+            <imagen></imagen>
+            <titulo></titulo>
+            <contenido></contenido>
+        </ventana-modulo>
+        <modulo>
+            <imagen>imagenes/FOL.jpg</imagen>
+            <titulo>Itinerario personal para la Empleabilidad II</titulo>
+        </modulo>
+        <ventana-modulo>
+            <imagen></imagen>
+            <titulo></titulo>
+            <contenido></contenido>
+        </ventana-modulo>
+        <modulo>
+            <imagen>imagenes/Sostenibilidad aplicada al sistema productivo.jpg</imagen>
+            <titulo>Sostenibilidad aplicada al sistema productivo</titulo>
+        </modulo>
+        <ventana-modulo>
+            <imagen></imagen>
+            <titulo></titulo>
+            <contenido></contenido>
+        </ventana-modulo>
+        <modulo>
+            <imagen>imagenes/imagesaaaaa.jpg</imagen>
+            <titulo>Proyecto Intermodular</titulo>
+        </modulo>
+        <ventana-modulo>
+            <imagen></imagen>
+            <titulo></titulo>
+            <contenido></contenido>
+        </ventana-modulo>
+    </segundo-año>
+</superior>
