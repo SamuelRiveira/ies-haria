@@ -5,6 +5,7 @@ const superior = document.getElementById("fp-superior");
 
 // MODULOS //
 const modulos = [];
+let numeroModulos = 0;
 // i <= numero de modulos
 for (let i = 1; i <= 42; i++) {
     modulos.push(document.getElementById(`modulo${i}`));
@@ -73,6 +74,8 @@ function cargarYMostrarXML(archivo, contenedorID) {
 function construirHTML(xml, contenedorID) {
     let xmlDoc = xml.responseXML;
     let codigoHTML = '';
+    numeroModulos = xmlDoc.getElementsByTagName("modulo").length;
+    console.log(numeroModulos)
     const ciclos = ['primer-año', 'segundo-año'];
     const idBase = contenedorID.split('-')[1]; // Extrae 'basica', 'media' o 'superior' del contenedorID
     let moduloIndexOffset = idBase === 'basica' ? 1 : idBase === 'media' ? 11 : 25; // Para el cálculo de índices de modulos

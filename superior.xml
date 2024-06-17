@@ -71,7 +71,8 @@
         <ventana-modulo>
             <imagen>imagenes/ingles.jpg</imagen>
             <titulo>Inglés profesional</titulo>
-            <contenido>Este módulo profesional contiene la formación necesaria para que el alumno pueda insertarse laboralmente y desarrollar su carrera profesional en el sector del Desarrollo de Aplicaciones multiplataforma. Horas Semanales : 3 horas Horas Totales: 96 horas</contenido>
+            <contenido>La asignatura de ingles se enfoca principalmente al sector informático, enseñandote nuevo vocabulario relacionado con el mundo informático : Horas Semanales : 2 horas
+Horas Totales: 64 horas </contenido>
         </ventana-modulo>
     </primer-año>
     <segundo-año>

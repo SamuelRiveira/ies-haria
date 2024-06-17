@@ -166,7 +166,6 @@ nav{
     display: flex;
     flex-direction: column;
     transition: 0.3s;
-    
 }
 
 .tarjeta img{
@@ -315,6 +314,7 @@ nav{
 .navegacion-ciclos a{
     color: black;
     padding-right: 16px;
+    margin-top: 33px;
 }
 
 .ciclo:hover{
@@ -378,7 +378,6 @@ nav{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 100px;
-    
 }
 
 .modulos{
@@ -739,10 +738,114 @@ footer{
     }
 
     #proyectos h1{
-        padding: 5%;
-        font-size: 30px;
+        padding: 7% 0% 7% 0%;
+        font-size: 20px;
     }
 
+    #tarjetas{
+        width: 100%;
+        overflow-x: auto;
+        display: flex;
+        -ms-overflow-style: none;
+    }
+
+    #tarjetas::-webkit-scrollbar {
+        display: none; /* Oculta el scrollbar en Chrome, Safari y Opera */
+    }
+
+    #tarjeta1{
+        margin-left: 15%;
+    }
+
+    #ultima-tarjeta{
+        margin-right: 15%;
+    }
+
+    .tarjeta{
+        min-width: 250px;
+        height: 300px;
+        margin-bottom: 40px;
+    }
+
+    .tarjeta img{
+        height:150px;
+    }
+
+    .tarjeta h3{
+        font-size: 20px;
+        padding: 7px 0px 7px 0px;
+    }
+
+    .tarjeta p{
+        font-size: 11px;
+        padding: 2%;
+    }
+
+    /* CICLOS */
+
+    #ciclos h1{
+        font-size: 20px;
+        padding: 10px;
+    }
+
+    #contenedor-ciclos{
+        overflow-x: auto;
+        overflow-y: hidden;
+        width: 100%;
+        height: 350px;
+        -ms-overflow-style: none;
+    }
+
+    #contenedor-ciclos::-webkit-scrollbar {
+        display: none; /* Oculta el scrollbar en Chrome, Safari y Opera */
+    }
+    
+    .ciclo{
+        width: 360px;
+        height: 370px;
+    }
+
+    .ciclo h2{
+        margin-top: 30px;
+        font-size: 25px;
+    }
+
+
+    /* MODULOS */
+
+    .tarjetas-modulos{
+        display: flex;
+        overflow-x: auto;
+        -ms-overflow-style: none;
+    }
+
+    .tarjetas-modulos::-webkit-scrollbar {
+        display: none; /* Oculta el scrollbar en Chrome, Safari y Opera */
+    }
+
+    .fp h1{
+        padding: 1% 16px 0% 5%;
+        font-size: 20px;
+    }
+
+    .navegacion-ciclos a{
+        color: black;
+        padding-right: 16px;
+        margin-top: 8px;
+        font-size: 20px;
+    }
+
+    .modulos{
+        width: 360px;
+        height: 370px;
+    }
+
+    .modulos img{
+        width: 100%;
+        height: 308px;
+        padding: 5%;
+        border-radius: 30px;
+    }
 
     /* FOOTER */
 
