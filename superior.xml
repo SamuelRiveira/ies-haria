@@ -128,7 +128,7 @@ Horas Totales: 64 horas </contenido>
         <ventana-modulo>
             <imagen>imagenes/FOL2.jpg</imagen>
             <titulo>Itinerario personal para la Empleabilidad II</titulo>
-            <contenido>La asignatura de Proyecto de desarrollo de aplicaciones multiplataforma en el ciclo superior de DAM tiene como objetivo proporcionar a los estudiantes la oportunidad de aplicar los conocimientos y habilidades adquiridos en las diferentes asignaturas del ciclo formativo en un proyecto de desarrollo de software real, con el fin de que los estudiantes puedan desarrollar habilidades en la gestión y dirección de proyectos de software. Horas Semanales : 3 horas Horas Totales: 64 horas</contenido>
+            <contenido>Se centra en desarrollar competencias avanzadas para el mercado laboral, como habilidades digitales, liderazgo y trabajo en equipo. Incluye talleres prácticos, asesoría profesional y la creación de un plan de carrera adaptado a tus objetivos. Este itinerario facilita la integración en el entorno laboral y potencia tu capacidad para enfrentar nuevos desafíos profesionales.</contenido>
         </ventana-modulo>
         <modulo>
             <imagen>imagenes/Sostenibilidad aplicada al sistema productivo.jpg</imagen>
@@ -137,16 +137,16 @@ Horas Totales: 64 horas </contenido>
         <ventana-modulo>
             <imagen>imagenes/Sostenibilidad aplicada al sistema productivo.jpg</imagen>
             <titulo>Sostenibilidad aplicada al sistema productivo</titulo>
-            <contenido>La asignatura de Proyecto de desarrollo de aplicaciones multiplataforma en el ciclo superior de DAM tiene como objetivo proporcionar a los estudiantes la oportunidad de aplicar los conocimientos y habilidades adquiridos en las diferentes asignaturas del ciclo formativo en un proyecto de desarrollo de software real, con el fin de que los estudiantes puedan desarrollar habilidades en la gestión y dirección de proyectos de software. Horas Semanales : 3 horas Horas Totales: 64 horas</contenido>
+            <contenido>Se busca equilibrar la viabilidad económica, la responsabilidad social y la protección ambiental en la producción de bienes y servicios. Implica optimizar recursos, reducir residuos y emisiones, mejorar las condiciones laborales y apoyar a las comunidades, fomentando un desarrollo empresarial responsable y a largo plazo.</contenido>
         </ventana-modulo>
         <modulo>
-            <imagen>imagenes/imagesaaaaa.jpg</imagen>
+            <imagen>imagenes/Proyecto Intermodular.jpg</imagen>
             <titulo>Proyecto Intermodular</titulo>
         </modulo>
         <ventana-modulo>
-            <imagen>imagenes/imagesaaaaa.jpg</imagen>
+            <imagen>imagenes/Proyecto Intermodular.jpg</imagen>
             <titulo>Proyecto Intermodular</titulo>
-            <contenido>La asignatura de Proyecto de desarrollo de aplicaciones multiplataforma en el ciclo superior de DAM tiene como objetivo proporcionar a los estudiantes la oportunidad de aplicar los conocimientos y habilidades adquiridos en las diferentes asignaturas del ciclo formativo en un proyecto de desarrollo de software real, con el fin de que los estudiantes puedan desarrollar habilidades en la gestión y dirección de proyectos de software. Horas Semanales : 3 horas Horas Totales: 64 horas</contenido>
+            <contenido>Integra conocimientos y habilidades de diversos módulos del programa educativo en un único proyecto práctico. Permite aplicar teoría y técnicas de diferentes áreas en un contexto real o simulado, promoviendo el trabajo en equipo y la resolución creativa de problemas. Este enfoque interdisciplinario refuerza la comprensión global y prepara a los estudiantes para enfrentar desafíos complejos en el mundo profesional.</contenido>
         </ventana-modulo>
     </segundo-año>
 </superior>

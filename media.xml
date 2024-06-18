@@ -85,40 +85,40 @@
             <contenido>Este módulo te adentra en el mundo de los sistemas operativos de una manera más amplia, conociendo cómo funcionan en red, de tal manera que dos o más usuarios pueden intervenir.</contenido>
         </ventana-modulo>
         <modulo>
-            <imagen>/imagenes/Itinerario personal para la Empleabilidad II.jpg</imagen>
+            <imagen>/imagenes/FOL.jpg</imagen>
             <titulo>Itinerario personal para la Empleabilidad II</titulo>
         </modulo>
         <ventana-modulo>
-            <imagen>/imagenes/Itinerario personal para la Empleabilidad II.jpg</imagen>
+            <imagen>/imagenes/FOL2.jpg</imagen>
             <titulo>Itinerario personal para la Empleabilidad II</titulo>
             <contenido>Si tienes espíritu emprendedor y quieres montar tu propio negocio en el sector informático, esta asignatura te encantará, ya que te facilita toda la información que necesitas para trabajar por tu cuenta, desde el alta de la empresa hasta el lanzamiento del servicio, pasando por las diferentes formas de financiación que puedes conseguir.</contenido>
         </ventana-modulo>
         <modulo>
-            <imagen></imagen>
+            <imagen>/imagenes/Aplicaciones Web.png</imagen>
             <titulo>Aplicaciones Web</titulo>
         </modulo>
         <ventana-modulo>
-            <imagen></imagen>
+            <imagen>/imagenes/Aplicaciones Web.png</imagen>
             <titulo>Aplicaciones Web</titulo>
             <contenido>En esta asignatura aprenderás lo que un profesional informático debe saber sobre aplicaciones web, uno de los recursos más interesantes que utilizan los desarrolladores para satisfacer las necesidades de cualquier propietario en relación a su página web.</contenido>
         </ventana-modulo>
         <modulo>
-            <imagen></imagen>
+            <imagen>imagenes/Sostenibilidad aplicada al sistema productivo.jpg</imagen>
             <titulo>Sostenibilidad aplicada al sistena productivo</titulo>
         </modulo>
         <ventana-modulo>
-            <imagen></imagen>
+            <imagen>imagenes/Sostenibilidad aplicada al sistema productivo.jpg</imagen>
             <titulo>Sostenibilidad aplicada al sistena productivo</titulo>
             <contenido>El último trimestre se realizan prácticas en empresas que busca el centro para tu formación en las que tendrán un tutor quien les enseñará. Esto es algo grandioso ya que obtienes experiencia laboral.</contenido>
         </ventana-modulo>
         <modulo>
-            <imagen></imagen>
+            <imagen>/imagenes/Proyecto Intermodular.jpg</imagen>
             <titulo>Proyecto Intermodular</titulo>
         </modulo>
         <ventana-modulo>
-            <imagen></imagen>
+            <imagen>/imagenes/Proyecto Intermodular.jpg</imagen>
             <titulo>Proyecto Intermodular</titulo>
-            <contenido>La asignatura de Proyecto de desarrollo de aplicaciones multiplataforma en el ciclo superior de DAM tiene como objetivo proporcionar a los estudiantes la oportunidad de aplicar los conocimientos y habilidades adquiridos en las diferentes asignaturas del ciclo formativo en un proyecto de desarrollo de software real, con el fin de que los estudiantes puedan desarrollar habilidades en la gestión y dirección de proyectos de software. Horas Semanales : 3 horas Horas Totales: 64 horas</contenido>
+            <contenido>Integra conocimientos y habilidades de diversos módulos del programa educativo en un único proyecto práctico. Permite aplicar teoría y técnicas de diferentes áreas en un contexto real o simulado, promoviendo el trabajo en equipo y la resolución creativa de problemas. Este enfoque interdisciplinario refuerza la comprensión global y prepara a los estudiantes para enfrentar desafíos complejos en el mundo profesional.</contenido>
         </ventana-modulo>
     </segundo-año>
 </media>
